@@ -1,0 +1,93 @@
+----------------------------------------------------------
+XTong Develop Open Source Licence v1.0
+晓通开发者开源许可证(协议)1.0版
+
+本许可证(协议)为XTong Studio开发,请认准XTong Studio商标
+XTong Studio的证书信息:
+根证书:YES
+类型:sha512RSA
+md5值:72025410849d5132e46de02f5f150612
+序列号:009b8fff3fc0540819
+公钥参数:05 00
+指纹:620984b2c6f38eef8120242d05c1f183d880c576
+地区:Suzhou,Jiangsu,CN
+许可证唯一识别码:434e-20200330-736f667477617265-58746f6e672053747564696f-6c6963656e6365-312e30
+请注意核对官方证书信息
+
+This License (agreement) is developed by XTong Studio. Please recognize the trademark of XTong Studio
+Certificate information of XTong Studio:
+Root certificate: Yes
+Type: sha512rsa
+MD5 value: 72025410849d5132e46de02f5f150612
+Serial No.: 009b8fff3fc0540819
+Public key parameters: 05 00
+Fingerprint: 620984b2c6f38eef812042d05c1f183d880c576
+Region: Suzhou, Jiangsu, CN
+Licence Unique Identifier:434e-20200330-736f667477617265-58746f6e672053747564696f-6c6963656e6365-312e30
+Please check the official certificate information
+-------------development Infomation--------------
+开发者证书信息:
+根证书:YES
+类型:sha512RSA
+md5值:72025410849d5132e46de02f5f150612
+序列号:009b8fff3fc0540819
+公钥参数:05 00
+指纹:620984b2c6f38eef8120242d05c1f183d880c576
+地区:Suzhou,Jiangsu,CN
+许可证唯一识别码:434e-20200330-736f667477617265-58746f6e672053747564696f-6c6963656e6365-312e30
+-----------
+Developer certificate information:
+Root certificate: Yes
+Type: sha512rsa
+MD5 value: 72025410849d5132e46de02f5f150612
+Serial No.: 009b8fff3fc0540819
+Public key parameters: 05 00
+Fingerprint: 620984b2c6f38eef812042d05c1f183d880c576
+Region: Suzhou, Jiangsu, CN
+Licence Unique Identifier:434e-20200330-736f667477617265-58746f6e672053747564696f-6c6963656e6365-312e30
+Licence Unique Identifier:
+-------------------------------------------------------------
+
+许可证最终用户许可协议
+Licence EULA
+-----
+1.如需让此许可证生效，需要将本许可证以Refish.Licence.txt储存在程序或硬件根目录，且在本许可证27至45行注明开发者信息
+In order for this license to take effect, this license needs to be registered as "Licence" is stored in the program or hardware root directory, and the developer information is indicated on lines 27 to 45 of this license
+
+2.此许可证及其授权软硬件受《中华人民共和国数据保护法》保护,非大陆用户受本工作室许可证和Apache许可证保护
+This license and its authorized software and hardware are protected by the (data protection law of the people's Republic of China), and non Chinese users are protected by the studio's license and Apache License
+
+3.此许可证不接受任何有关色情、暴力、违法等有关行为的软硬件的授权，如一旦查出，将立即第一时间发送邮件警告且吊销相关签发的许可证证书
+This license does not accept any authorization of software and hardware related to pornographic, violent, illegal and other related acts. Once found, it will immediately send an email warning and revoke the relevant issued license certificate
+
+4.此许可证授权时(非第三方授权)会产生相关的证书密钥，请妥善保管，该证书为许可证配套证书，可用于对被许可证保护的软硬件签名
+When this license is authorized (not authorized by a third party), relevant certificate keys will be generated. Please keep them properly. This certificate is the supporting certificate of the license and can be used to sign the software and hardware protected by the license
+
+5.此许可证具有法律效益，可作为法庭出庭证据
+This Licence has legal benefits and can be used as evidence in court
+
+6.此许可证为公益项目，禁止第三方以商业名义销售
+This license is a public welfare project and no third party is allowed to sell it in the name of Commerce
+
+7.此许可证受Apache Licence v2.0协议保护，但由我方许可证授权的软硬件不受Apache Licence保护
+This license is subject to Apache license v2.0 0 protocol, but the software and hardware authorized by our license are not protected by Apache license
+
+8.由此许可证授权的软硬件为开源程序，由开发者发布源代码和测试版程序，其他人可修改源代码发布，但需署名原作者名称且征得原开发者同意，且编写出的代码不能和源代码有超过40%的相似度
+The software and hardware authorized by this license are open source programs, and the developer releases the source code and beta program. Others can modify the source code release, but they need to sign the name of the original author and obtain the consent of the original developer, and the code written cannot be more than 40% similar to the source code
+
+9.此许可证针对硬件授权，需署名该文本中的相关信息，再使用证书签名所有文件，此处证书可以是非XTong Studio的证书，但46行特别注明证书来源
+This license is for hardware authorization. You need to sign the relevant information in the text, and then use the certificate to sign all documents. The certificate here can be a non XTong Studio certificate,but the source of the certificate is specially indicated in line 46
+
+10.此许可证禁止非开发者利用授权的程序作为商业活动，或恶意修改程序，如违反规定，将立即对该程序进行特殊管理
+This license prohibits non developers from using the authorized program as a commercial activity or maliciously modifying the program. In case of violation of the regulations, the program will be subject to special management immediately
+
+11.此许可证禁止开发者利用本证书非法诬告他人，如违反规定，将立即吊销相关许可证并发出警告邮件
+This license prohibits developers from using this certificate to illegally and falsely accuse others. In case of violation of the regulations, the relevant license will be revoked immediately and a warning email will be sent
+
+12.此许可证授权的产品禁止被用于第三方用于任何行为。其部分代码由原开发者授权后才可用于商业或公益行为
+The products authorized by this license are prohibited from being used by any third party for any behavior. Part of its code can only be used for commercial or public welfare activities after being authorized by the original developer
+
+13.此许可证授权的产品生成的文件和数据拥有绝对保护权，即除原开发者外，其余任意一方都无权利复制和修改
+The documents and data generated by the products authorized by this license have the absolute protection right, that is, except for the original developer, any other party has no right to copy and modify
+
+
